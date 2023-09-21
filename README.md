@@ -9,7 +9,7 @@
 - 🎯 2023 Goals: Contribute to **LSTM-on-FTLE**
 - 📫 How to reach me: chens356@mcmaster.ca or doubizhandouji@gmail.com
 - ⚡ Fun fact: I love **Tennis**, **Chess♟️**, **Reading**, **Chinese Go**
-- 📝 [Resume] (./Shike Chen September 12th 2023.pdf)
+- 📝 ![Resume] (./Shike Chen September 12th 2023.pdf)
 
 ## 📈 GitHub Stats
 
