@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**MikeLoveGame/MikeLoveGame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Shike Chen
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m currently studying **Software Engineering** at **McmMaster University**
+- 🏢 Worked as a **Research Assistant** at **Chinese Academy of Science**
+- 🌱 I’m currently learning **Vue.js, DeepLearning, Quantitative Analysis, Large System Design**
+- 🎯 2023 Goals: Contribute to **LSTM-on-FTLE, Initiate ML in Quant**
+- 📫 How to reach me: chens356@mcmaster.ca or doubizhandouji@gmail.com
+- ⚡ Fun fact: I love **Tennis**, **Chess♟️**, **Reading**, **Chinese Go**
+- 📝 [Resume] <img src="Shike Chen September 12th 2023.pdf">
+
+## 📈 GitHub Stats
+
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/yourusername/github-readme-stats)
+
+## Personal Projects:
+
