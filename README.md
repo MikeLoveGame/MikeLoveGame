@@ -3,13 +3,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently studying **Software Engineering** at **McMaster University**
+- 🎓 I’m a 3rd year student currently studying **Software Engineering** at **McMaster University**
 - 🏢 Worked as a **Research Assistant** at **Chinese Academy of Science**
-- 🌱 I’m currently learning **Vue.js, DeepLearning, Quantitative Analysis, Large System Design**
-- 🎯 2023 Goals: Contribute to **LSTM-on-FTLE, Initiate ML in Quant**
+- 🌱 I’m currently learning **DeepLearning, Quantitative Analysis, Large System Design**
+- 🎯 2023 Goals: Contribute to **LSTM-on-FTLE**
 - 📫 How to reach me: chens356@mcmaster.ca or doubizhandouji@gmail.com
 - ⚡ Fun fact: I love **Tennis**, **Chess♟️**, **Reading**, **Chinese Go**
-- 📝 [Resume] <img src="Shike Chen September 12th 2023.pdf">
+- 📝 [Resume] (./Shike Chen September 12th 2023.pdf)
 
 ## 📈 GitHub Stats
 
